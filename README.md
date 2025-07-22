@@ -3,7 +3,7 @@
 
 A simple static personal website built with HTML & CSS.
 
-**Live Demo:** [View Website][[https://yourusername.github.io](https://joudalghumaiz.github.io/](https://joudalghumaiz.github.io/))
+Click <a href="https://joudalghumaiz.github.io/" target="_blank">here to view it</a>
 
 ## Features
 - Responsive design (works on mobile/tablet/desktop)
