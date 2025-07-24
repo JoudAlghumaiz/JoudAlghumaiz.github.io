@@ -11,3 +11,4 @@ Click <a href="https://joudalghumaiz.github.io/" target="_blank">here to view it
 - Minimalist styling with CSS Flexbox
 
 ## Files
+<img width="2868" height="1630" alt="joud - website" src="https://github.com/user-attachments/assets/e4285051-b6df-4b12-93c4-673ad2b3484b" />
